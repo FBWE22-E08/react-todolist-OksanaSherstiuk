@@ -1,0 +1,12 @@
+.taskBox {
+  display: flex;
+  justify-content: space-between;
+  width: 80vh;
+}
+
+#deleteBtn {
+  background-color: orangered;
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
